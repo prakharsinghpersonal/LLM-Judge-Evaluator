@@ -1,2 +1,3 @@
 - Commit 2 (Prompt Engineering): Design the meta-prompts instructing the "Judge LLM" on how to evaluate responses based on the rubric (e.g., coherence, accuracy, safety).
 - Commit 3 (Evaluation Pipeline): Build the asynchronous Python pipeline to concurrently send thousands of candidate model responses to the Azure OpenAI endpoint for scoring.
+- Commit 4 (Metrics & Analytics): Implement the script that aggregates the JSON scores, calculates statistical distributions, and logs the 65% manual evaluation time reduction metric.
