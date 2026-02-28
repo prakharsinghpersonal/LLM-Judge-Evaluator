@@ -1,0 +1,1 @@
+- Commit 2 (Prompt Engineering): Design the meta-prompts instructing the "Judge LLM" on how to evaluate responses based on the rubric (e.g., coherence, accuracy, safety).
